@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"Emmet",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"Sass",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter-php"
+	]
+}
